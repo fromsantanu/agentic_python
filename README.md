@@ -3,7 +3,7 @@
 ## List of Projects - Book 1 (Part II)
 ### Category 1: Workflow Without Agents
 1. [Project 1: Daily Task Automation System](https://github.com/fromsantanu/agentic_python/blob/main/Book1-Projects/p1.md)
-2. [Project 2: Rule-Based Email / Alert System](#)
+2. [Project 2: Rule-Based Email / Alert System](https://github.com/fromsantanu/agentic_python/blob/main/Book1-Projects/p2.md)
 3. [Project 3: Data Collection & Reporting Workflow](#)
 
 ### Category 2: Building Agents (Single Agent Focus)
