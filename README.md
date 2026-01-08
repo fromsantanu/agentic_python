@@ -13,10 +13,10 @@
 
 ### Category 3: Workflow with Agents
 1. [Project 7: Agent-Assisted Workflow](https://github.com/fromsantanu/agentic_python/blob/main/Book1-Projects/p7.md)
-2. [Project 8: Intelligent Triage System]([#](https://github.com/fromsantanu/agentic_python/blob/main/Book1-Projects/p8.md))
-3. [Project 9: Monitoring & Follow-Up Agent]([#](https://github.com/fromsantanu/agentic_python/blob/main/Book1-Projects/p9.md))
+2. [Project 8: Intelligent Triage System](https://github.com/fromsantanu/agentic_python/blob/main/Book1-Projects/p8.md)
+3. [Project 9: Monitoring & Follow-Up Agent](https://github.com/fromsantanu/agentic_python/blob/main/Book1-Projects/p9.md)
 
 ### Category 4: Workflows with Multiple Agents
-1. [Project 10: Manager–Worker Agent System]([#](https://github.com/fromsantanu/agentic_python/blob/main/Book1-Projects/p10.md))
+1. [Project 10: Manager–Worker Agent System](https://github.com/fromsantanu/agentic_python/blob/main/Book1-Projects/p10.md)
 2. [Project 11: Specialist Agents Collaboration](https://github.com/fromsantanu/agentic_python/blob/main/Book1-Projects/p11.md)
 3. [Project 12: End-to-End Multi-Agent System](https://github.com/fromsantanu/agentic_python/blob/main/Book1-Projects/p12.md)
